@@ -40,7 +40,7 @@ WIP
 - [x] Rendering Lists
 - [x] Managing State
 - [x] Functional Component
-- [ ] Validating Props with PropsTypes
+- [x] Validating Props with PropsTypes
 - [ ] The Component Lifecycle
 - [ ] Handling Form State
 
