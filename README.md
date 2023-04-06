@@ -20,11 +20,11 @@ This is a GitHub Battle app built with React, which uses the [Github API](https:
 
 2. Install the dependencies:
    ```zsh
-   npm install
+   pnpm install
    ```
 3. Start the development server:
    ```zsh
-   npm start
+   pnpm dev
    ```
 
 ## Usage
