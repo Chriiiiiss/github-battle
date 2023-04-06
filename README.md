@@ -10,6 +10,8 @@
 
 This is a GitHub Battle app built with React, which uses the [Github API](https://developer.github.com/v3/) to retrieve information about users and display a battle between them.
 
+Here i'm following the courses project so I'm using Class Component and PropsTypes instead of Functional Component and Typescript
+
 ## Installation
 
 1. Clone the repository:
