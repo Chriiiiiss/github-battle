@@ -33,9 +33,16 @@ WIP
 
 ## To-Do
 
+### Courses
+
 - [x] The Road to Hello World
-- [ ] Passing Data to Component
-- [ ] Rendering Lists
+- [x] Passing Data to Component
+- [x] Rendering Lists
+- [x] Managing State
+- [x] Functional Component
+- [ ] Validating Props with PropsTypes
+- [ ] The Component Lifecycle
+- [ ] Handling Form State
 
 ## Configuration
 
