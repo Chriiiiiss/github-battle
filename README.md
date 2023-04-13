@@ -43,8 +43,15 @@ WIP
 - [x] Managing State
 - [x] Functional Component
 - [x] Validating Props with PropsTypes
-- [ ] The Component Lifecycle
-- [ ] Handling Form State
+- [x] The Component Lifecycle
+- [x] Handling Form State
+- [ ] Building Reusable Component
+- [ ] Code Sharing
+- [ ] Bypassing Props with Context
+- [ ] React Router
+- [ ] Better Classes with Class Fields
+- [ ] Performance Gains with Code Splitting
+- [ ] Production Builds and Hosting
 
 ## Configuration
 
